@@ -9,8 +9,8 @@ expensive to be deployed on widely-used personal cars. To address these issue, w
 propose a novel Star-eyes ADAS. We combine conventional computer-vision and
 deep-learning-based methods to build more concise and steady algorithms, and develop monocular ranging distance algorithm in ranging surrounding vehicles and
 persons based on only cameras. Besides, in order to improve perceptual capacity
-of drivers, we first add a panoramic stitching and 3D mapping view into ADAS
-products.
+of drivers, we first add a panoramic stitching and 3D live road model into ADAS
+products for a more concise view.
 
 ## Introduction
 
@@ -40,7 +40,7 @@ Monocular camera ranging is really a huge challenge to everyone engaged in compu
 
 By mixing camera pictures from four differnent sides, we could get an aerial view of car and its around. It helps drivers observe around more precisely.
 
-### 3D Mapping
+### 3D live road model
 
 Obviously, large amounts of products can obtain data and handle it with programming like image process or machine learning. In real-time driving, all the objects coordinate was mapping to 3D model in screen. This function builds a succinct picture to express relative positions of every vehicles, thus helping drivers observe the road more precisely.
 
