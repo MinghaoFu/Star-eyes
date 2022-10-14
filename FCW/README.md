@@ -1,9 +1,9 @@
-#Prototype of Pre-Collision System
+# Prototype of Pre-Collision System
 
-##Structure
+## Structure
 pics->yolov3->original coordinates->birdView->bird view coordinats and distance for each object->interface
 
-##Intro for every folders:
+## Intro for every folders:
 **share**: Used to store coordinates, distance numerical information.
 **runs**: Yolov3 runs out with framed pictures
 **interface**: An encapsulated C++ class that contains the target name, original **coordinates**, transformed coordinates, and distance.
