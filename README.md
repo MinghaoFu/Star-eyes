@@ -2,18 +2,15 @@
 
 ## Abstract
 Advanced driver assistance systems (ADAS) has achieved compelling
-success in driving and parking functions. Through a safe human-machine in-
-terface, ADAS could increase car and road safety. However, existing methods
-have inevitable drawbacks about security and hardware cost. For instance, deep-
-learning-based detection algorithm are unstable in real-world applications for the
+success in driving and parking functions. Through a safe human-machine interface, ADAS could increase car and road safety. However, existing methods
+have inevitable drawbacks about security and hardware cost. For instance, deep-learning-based detection algorithm are unstable in real-world applications for the
 approximation error during learning stage, and hardware of radio ranging is too
 expensive to be deployed on widely-used personal cars. To address these issue, we
 propose a novel Star-eyes ADAS. We combine conventional computer-vision and
-deep-learning-based methods to build more concise and steady algorithms, and de-
-velop monocular ranging distance algorithm in ranging surrounding vehicles and
+deep-learning-based methods to build more concise and steady algorithms, and develop monocular ranging distance algorithm in ranging surrounding vehicles and
 persons based on only cameras. Besides, in order to improve perceptual capacity
 of drivers, we first add a panoramic stitching and 3D mapping view into ADAS
-products
+products.
 
 ## Introduction
 
