@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/trace.dir/trace.cpp.o  -o trace 

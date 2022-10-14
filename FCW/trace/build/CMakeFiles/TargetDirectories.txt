@@ -1,0 +1,3 @@
+/home/helicor/ALL/FCW/trace/build/CMakeFiles/rebuild_cache.dir
+/home/helicor/ALL/FCW/trace/build/CMakeFiles/edit_cache.dir
+/home/helicor/ALL/FCW/trace/build/CMakeFiles/trace.dir

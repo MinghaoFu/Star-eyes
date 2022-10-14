@@ -1,0 +1,3 @@
+/home/helicor/ALL/FCW/birdView/build/CMakeFiles/rebuild_cache.dir
+/home/helicor/ALL/FCW/birdView/build/CMakeFiles/edit_cache.dir
+/home/helicor/ALL/FCW/birdView/build/CMakeFiles/dist.dir

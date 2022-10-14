@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/helicor/ALL/FCW/trace/trace.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+string
+-
+math.h
+-
+vector
+-
+time.h
+-
+
