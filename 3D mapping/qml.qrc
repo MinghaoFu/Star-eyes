@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AdsEffect.qml</file>
+        <file>AdsMaterial.qml</file>
+        <file>GroundPlane.qml</file>
+        <file>MainCar.qml</file>
+        <file>ShadowMapFrameGraph.qml</file>
+        <file>ShadowMapLight.qml</file>
+        <file>Trefoil.qml</file>
+        <file>SceneRoot.qml</file>
+        <file>script.mjs</file>
+        <file>Back.qml</file>
+    </qresource>
+</RCC>

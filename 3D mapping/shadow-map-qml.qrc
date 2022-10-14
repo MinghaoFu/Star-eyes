@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/ads.frag</file>
+        <file>shaders/ads.vert</file>
+        <file>shaders/shadowmap.frag</file>
+        <file>shaders/shadowmap.vert</file>
+        <file>shaders/es3/ads.frag</file>
+        <file>shaders/es3/ads.vert</file>
+        <file>shaders/es3/shadowmap.frag</file>
+        <file>shaders/es3/shadowmap.vert</file>
+        <file>shaders/toyplane.obj</file>
+        <file>shaders/trefoil.obj</file>
+        <file>shaders/car.obj</file>
+        <file>shaders/car3.obj</file>
+    </qresource>
+</RCC>
